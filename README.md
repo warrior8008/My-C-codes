@@ -5,29 +5,29 @@ This repository contains a collection of C programs that I've written to practic
 ## 📂 Codes
 
 
-Age_Verifier.c
+1. Age_Verifier.c
 
-Area and Circumference.cpp
+2. Area and Circumference.cpp
 
-Area and Perimeter.cpp
+3. Area and Perimeter.cpp
 
-Driving_Age_Verifier.cpp
+4. Driving_Age_Verifier.cpp
 
-Measuring_size_of_variable.c
+5. Measuring_size_of_variable.c
 
-Multiply complex no.cpp
+6. Multiply complex no.cpp
 
-Polynomial.cpp
+7. Polynomial.cpp
 
-Sum and average.c
+8. Sum and average.c
 
-demo.exe
+9. demo.exe
 
-hello
+10. hello
 
-last..c
+11. last..c
 
-shorthand.c
+12. shorthand.c
 
-switch case.cpp
+13. switch case.cpp
 
