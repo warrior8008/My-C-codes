@@ -1,19 +1,19 @@
 #include<stdio.h>
     int main(){
         
-        int a,b,c,d;
+        unsigned long long  a,b,c,d;
 
             printf("Enter the value of a = ");
-            scanf("%d", &a);
+            scanf("%llu", &a);
 
             printf("Enter the value of b = ");
-            scanf("%d", &b);
+            scanf("%llu", &b);
         
             printf("Enter the value of c = ");
-            scanf("%d", &c);
+            scanf("%llu", &c);
 
             printf("Enter the value of d = ");
-            scanf("%d", &d);
+            scanf("%llu", &d);
 
             if(a>=b && a>=c && a>=d){
                printf("The a is greatest.");
