@@ -1,6 +1,6 @@
 # My C Codes
 
-This repository contains a collection of C programs that I've written to practice and improve my C programming skills. It includes basic snippets and full programs for a variety of problems.
+This repository contains a collection of C programs that I've learn from codewithharry to practice and improve my C programming skills. It includes basic snippets and full programs for a variety of problems.
 
 ## 📂 Codes
 
