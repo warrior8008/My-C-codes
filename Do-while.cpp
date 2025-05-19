@@ -1,18 +1,17 @@
 #include<stdio.h>
     int main(){
 
-          int i = 0;
+          int n , i = 1;
+                 
+                 printf("Ente the value of n = ");
+                 scanf("%d", &n);
 
-        do{
+            do{
 
-            printf("%d\n", i); i++;
+                printf("\n%d", i);i++;
 
-                
-
-        }while(i<4);
-
-            
+            }while(i<=n);
 
 
-        return 0;
-    }
+    return 0;
+}
