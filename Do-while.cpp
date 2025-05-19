@@ -1,3 +1,5 @@
+/*write a program in C to print "n" natural numbers using do-while loop.*/
+
 #include<stdio.h>
     int main(){
 
