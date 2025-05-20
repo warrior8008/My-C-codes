@@ -1,3 +1,5 @@
+/*Write a program in C to print "n" natural number in reverse order*/
+
 #include <stdio.h>
 
 int main() {
