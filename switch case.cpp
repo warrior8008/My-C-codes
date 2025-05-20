@@ -28,7 +28,13 @@
                     break;
                 case 7:
                     printf("You enter 7");
-                    break;                
+                    break;
+                case 8:
+                    printf("You enter 8");
+                    break;
+                case 9:
+                    printf("You enter 9");
+                    break;                                  
                 default:
                     printf("You enter unwanted value.");
             }
