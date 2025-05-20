@@ -4,7 +4,7 @@
 
 int main(){
   
-      int i = 87;                // shuruat
+      int i = 0;                // shuruat
  while (i <= 10) {         // condition check hoti rahegi
        printf("%d\n", i);    // body: current number print karo
      i++;                  // update step (i = i + 1)

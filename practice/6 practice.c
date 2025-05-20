@@ -2,17 +2,16 @@
 
 int main(){
 
-        int a , b , SUM;
+        int i = 0, n;
 
-            printf("Enter the value of a = \n\n");
-            scanf("%d", &a);
+            printf("how many time you want to show : ");
+            scanf("%d", &n);
 
-            printf("Enter the value of b = \n\n");
-            scanf("%d", &b);
-
-            SUM = a + b;
-
-            printf("\n\n      The sum of a and b is %d   \n\n", SUM);
+            while(i<n){
+                
+                    
+                printf("I AM ENIGMA\n", i);i++;
+            }
 
     return 0;
 }
