@@ -30,7 +30,7 @@ int guessed_number;
             printf("Greater number please !!!\n");
         }else{
             printf("Congrats..!!");
-        }
+        }no_of_guesses++;
 
     }while(guessed_number != randomNumber);
 
