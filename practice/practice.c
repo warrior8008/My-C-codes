@@ -20,7 +20,6 @@ int main() {
     printf("Enter 2nd number:");
     scanf("%d", &b);
 
-    
     int result = sum(a, b);  // Function ko call kiya
     
     printf("The sum is: %d\n", result);
