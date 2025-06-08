@@ -13,18 +13,19 @@
 
 int main(){
 
-    int a , b , c;
+    int x , y , z;
 
         printf("a = ");
-        scanf("%d",&a);
+        scanf("%d",&x);
 
         printf("b = ");
-        scanf("%d",&b);
+        scanf("%d",&y);
 
         printf("c = ");
-        scanf("%d",&c);
+        scanf("%d",&z);
 
-        printf("The average of these numbers is %2f", average(a , b, c));
+        printf("The average of these numbers is %2f", average(x , y, z));
     
     return 0;
+
 }
