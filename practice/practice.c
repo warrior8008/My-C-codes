@@ -1,28 +1,24 @@
 #include <stdio.h>
 
-// Function ka declaration (prototype)
-int sum(int , int);
+    int fibionacci(int);
 
-// Ye function hai – do numbers lega aur sum karke return karega
-int sum(int x , int y) {
-    return x + y ;
-}
+    int fibionacci(int n){
+         if(n == 1 || n == 2){
+            return n - 1;
+         }
+
+    return fibionacci(n-1) + fibionacci(n-2);
+    }
+
     
-
-// Main function – yahin se program start hota hai
-int main() {
-
-    int a, b ;
-
-    printf("Enter 1st number:");
-    scanf("%d", &a);
-
-    printf("Enter 2nd number:");
-    scanf("%d", &b);
-
-    int result = sum(a, b);  // Function ko call kiya
+    int main(){
     
-    printf("The sum is: %d\n", result);
+    int n;
+
+        printf("Enter the value of n = ");
+        scanf("%d", &n);
+
+        printf("The value of fibionacci series at %d is %d.", n ,fibionacci(n));
 
     return 0;
 

@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 
-    float ctof(float );
+    float ctof(float);
 
     float ctof(float c){
 
